@@ -1,0 +1,36 @@
+{
+  "assignments": [
+    {
+      "id": "1",
+      "subject": "Lập trình Web nâng cao",
+      "title": "Bài thực hành 01 - TypeScript & Redux",
+      "dueDate": "2026-09-25",
+      "priority": "Cao",
+      "isCompleted": false
+    },
+    {
+      "id": "2",
+      "subject": "Cơ sở dữ liệu",
+      "title": "Thiết kế lược đồ ERD đồ án",
+      "dueDate": "2026-09-19",
+      "priority": "Trung bình",
+      "isCompleted": false
+    },
+    {
+      "id": "3",
+      "subject": "Kiến trúc phần mềm",
+      "title": "Báo cáo Microservices và Monolith",
+      "dueDate": "2026-09-30",
+      "priority": "Thấp",
+      "isCompleted": true
+    },
+    {
+      "id": "4",
+      "subject": "Mạng máy tính",
+      "title": "Bài tập phân chia subnet IPv4",
+      "dueDate": "2026-09-21",
+      "priority": "Cao",
+      "isCompleted": false
+    }
+  ]
+}
